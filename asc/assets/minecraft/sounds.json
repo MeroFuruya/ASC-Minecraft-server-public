@@ -1,80 +1,116 @@
 {
-  "yeet": {
+  "ASC.memes.yeet": {
     "category": "master",
     "sounds": [
-      "yeet"
+      "ASC/memes/yeet"
     ]
   },
-  "surprise": {
+  "ASC.memes.surprise": {
     "category": "master",
     "sounds": [
-      "surprise"
+      "ASC/memes/surprise"
     ]
   },
-  "ehre_genommen": {
+  "ASC.memes.ehre_genommen": {
     "category": "master",
     "sounds": [
-      "ehre_genommen"
+      "ASC/memes/ehre_genommen"
     ]
   },
-  "epic_sax_guy": {
+  "ASC.memes.epic_sax_guy": {
     "category": "master",
     "sounds": [
-      "epic_sax_guy"
+      "ASC/memes/epic_sax_guy"
     ]
   },
-  "fart": {
+  "ASC.memes.fart": {
     "category": "master",
     "sounds": [
-      "fart"
+      "ASC/memes/fart"
     ]
   },
-  "fbi_open_up": {
+  "ASC.memes.fbi_open_up": {
     "category": "master",
     "sounds": [
-      "fbi_open_up"
+      "ASC/memes/fbi_open_up"
     ]
   },
-  "ha_gay": {
+  "ASC.memes.ha_gay": {
     "category": "master",
     "sounds": [
-      "ha_gay"
+      "ASC/memes/ha_gay"
     ]
   },
-  "jumpscare": {
+  "ASC.memes.jumpscare": {
     "category": "master",
     "sounds": [
-      "jumpscare"
+      "ASC/memes/jumpscare"
     ]
   },
-  "nani": {
+  "ASC.memes.nani": {
     "category": "master",
     "sounds": [
-      "nani"
+      "ASC/memes/nani"
     ]
   },
-  "nope": {
+  "ASC.memes.nope": {
     "category": "master",
     "sounds": [
-      "nope"
+      "ASC/memes/nope"
     ]
   },
-  "ok": {
+  "ASC.memes.ok": {
     "category": "master",
     "sounds": [
-      "ok"
+      "ASC/memes/ok"
     ]
   },
-  "wow": {
+  "ASC.memes.wow": {
     "category": "master",
     "sounds": [
-      "wow"
+      "ASC/memes/wow"
     ]
   },
-  "yes_i_am": {
+  "ASC.memes.yes_i_am": {
     "category": "master",
     "sounds": [
-      "yes_i_am"
+      "ASC/memes/yes_i_am"
+    ]
+  },
+  "ASC.memes.rein_da_in_den_aal": {
+    "category": "master",
+    "sounds": [
+      "ASC/memes/aal"
+    ]
+  },
+  "ASC.memes.eiermann": {
+    "category": "master",
+    "sounds": [
+      "ASC/memes/eiermann"
+    ]
+  },
+  "ASC.memes.ich_liebe_sie": {
+    "category": "master",
+    "sounds": [
+      "ASC/memes/ich_liebe_sie"
+    ]
+  },
+  "ASC.memes.luftkopf": {
+    "category": "master",
+    "sounds": [
+      "ASC/memes/luftkopf"
+    ]
+  },
+  "ASC.memes.kono_dio_da": {
+    "category": "master",
+    "sounds": [
+      "ASC/memes/kono_dio_da"
+    ]
+  },
+  "ASC.memes.za_warudo": {
+    "category": "master",
+    "sounds": [
+      "ASC/memes/za_warudo"
     ]
   },
 
