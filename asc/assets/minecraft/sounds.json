@@ -11,6 +11,73 @@
       "surprise"
     ]
   },
+  "ehre_genommen": {
+    "category": "master",
+    "sounds": [
+      "ehre_genommen"
+    ]
+  },
+  "epic_sax_guy": {
+    "category": "master",
+    "sounds": [
+      "epic_sax_guy"
+    ]
+  },
+  "fart": {
+    "category": "master",
+    "sounds": [
+      "fart"
+    ]
+  },
+  "fbi_open_up": {
+    "category": "master",
+    "sounds": [
+      "fbi_open_up"
+    ]
+  },
+  "ha_gay": {
+    "category": "master",
+    "sounds": [
+      "ha_gay"
+    ]
+  },
+  "jumpscare": {
+    "category": "master",
+    "sounds": [
+      "jumpscare"
+    ]
+  },
+  "nani": {
+    "category": "master",
+    "sounds": [
+      "nani"
+    ]
+  },
+  "nope": {
+    "category": "master",
+    "sounds": [
+      "nope"
+    ]
+  },
+  "ok": {
+    "category": "master",
+    "sounds": [
+      "ok"
+    ]
+  },
+  "wow": {
+    "category": "master",
+    "sounds": [
+      "wow"
+    ]
+  },
+  "yes_i_am": {
+    "category": "master",
+    "sounds": [
+      "yes_i_am"
+    ]
+  },
+
   "magic.bonk": {
     "sounds": [
       "magic:spells/bonk1",
