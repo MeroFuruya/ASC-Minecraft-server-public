@@ -1,8 +1,14 @@
 {
-  "yeet":{
+  "yeet": {
     "category": "master",
     "sounds": [
       "yeet"
+    ]
+  },
+  "surprise": {
+    "category": "master",
+    "sounds": [
+      "surpriseMotherf"
     ]
   },
   "magic.bonk": {
