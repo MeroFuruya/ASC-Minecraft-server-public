@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "brewery:devils_poison",
+		"layer1": "brewery:devils_poison"
+	}
+}

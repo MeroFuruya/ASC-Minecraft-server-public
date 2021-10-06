@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "brewery:bubble_tea",
+		"layer1": "brewery:bubble_tea"
+	}
+}
