@@ -7,7 +7,5 @@
     "overrides": [
         {"predicate": {"custom_model_data": 18001}, "model": "magic:food/coffee"},
         {"predicate": {"custom_model_data": 18002}, "model": "magic:food/tea"},
-        {"predicate": {"custom_model_data": 17001}, "model": "item/beer"},
-        {"pridicate": {"custom_model_data": 17002},"model": "item/bubble_tea"}
     ]
 }
