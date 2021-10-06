@@ -1,7 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/bubble_tea",
-		"layer1": "item/bubble_tea"
-	}
-}
