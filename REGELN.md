@@ -10,7 +10,7 @@
 ##### 1.3. Spam und Werbung ist verboten
   Darunter versteht man z. B. das Posten von anderen Serveradressen sowie Links zu anderen Projekten. Bitte wiederholt Nachrichten nicht sinnlos mehrfach, das trägt nicht zur Unterhaltung bei und stört nur die Unterhaltung der anderen. Wenn ihr eine Frage habt, stellt sie normal, wer eine Antwort weiß, wird dir dann antworten.
 ##### 1.4. Trolling
-  Das Trollen von anderen Spielern ist nur in einem friedlichen Rahmen erlaubt. Wenn einer der Spieler den wunsch der unterlassung äußert, ist mi dem Trollen unvorzüglich aufzuhören.
+  Das Trollen von anderen Spielern ist nur in einem friedlichen Rahmen erlaubt. Wenn einer der Spieler den wunsch der unterlassung äußert, ist mit dem Trollen unvorzüglich aufzuhören.
 <br>
 #### 2. Landschaft:
 ##### 2.1. Griefen
