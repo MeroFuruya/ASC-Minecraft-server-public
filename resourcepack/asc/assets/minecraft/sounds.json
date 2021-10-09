@@ -92,25 +92,25 @@
   "asc.memes.ich_liebe_sie": {
     "category": "master",
     "sounds": [
-      "asc_sounds_sounds/memes/ich_liebe_sie"
+      "asc_sounds/memes/ich_liebe_sie"
     ]
   },
   "asc.memes.luftkopf": {
     "category": "master",
     "sounds": [
-      "asc_sounds_sounds/memes/luftkopf"
+      "asc_sounds/memes/luftkopf"
     ]
   },
   "asc.memes.kono_dio_da": {
     "category": "master",
     "sounds": [
-      "asc_sounds_sounds/memes/kono_dio_da"
+      "asc_sounds/memes/kono_dio_da"
     ]
   },
   "asc.memes.za_warudo": {
     "category": "master",
     "sounds": [
-      "asc_sounds_sounds/memes/za_warudo"
+      "asc_sounds/memes/za_warudo"
     ]
   },
 
