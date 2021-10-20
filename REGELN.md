@@ -33,10 +33,9 @@
 ##### 4.1. Massentierhaltung ist verboten
   Jeder Spieler sollte nicht mehr als 50 Tiere (Dorfbewohner zählen auch dazu) halten. Kurzfristig können es auch mal mehr sein, allerdings sollte eine Obergrenze von 100 Tieren nicht überschritten werden. Es ist auch nicht erlaubt, diese 50 Tiere auf wenigen Blöcken zu setzen. Gib ihnen genug Freilauf.
 ##### 4.1. Redstone Schaltkreise
-  Sehr große serverlastige Redstoneschaltungen sind bei uns verboten (ggf. eine Anfrage stellen). Um Serverleistung zu schonen, sollten so wenig Trichter wie nötig verwendet werden. Itemstau in aktiven Trichter muss verhindert werden. Jede Schaltung muss deaktivierbar sein und sollte nach Möglichkeit in einer Performance schonenden Art umgesetzt werden. Taktgeber (engl. Clocks) sowie Trichterloren sind zu vermeiden und sollten auf keinen Fall durchgängig laufen.
+  Redstoneschaltkreise sind bei uns grundsätzlich verboten. Wenn du dennoch etwas mit Redstone bauen willst, dann sprich dies bitte mit einer Person aus dem Serverteam ab.
 ##### 4.2. Farmen
-  Wir sehen davon ab Farmen anzubieten und verbiten auch dessen Bau. Solltest du dir nicht sicher sein, ob das von dir vorhergesehene Vorhaben darunter fällt, wende dich an die Mods.
-  Dies soll einen langsameren Progress und längeren Spielspaß auf unserem Server gewährleisten.
+  Automatische Farmen sind verboten. Alles was nicht Vollautomatisch bzw. Halbautomatisch ist, ist natürlich erlaubt. Wir behalten uns dennoch vor, dass das Serverteam eigenmächtig über die Legitimität einer Farm / eines Bauwerks entscheiden darf.
 <br>
 #### 5. RP (RolePlay):
 ##### 5.1. Eigenes Leben schützen
